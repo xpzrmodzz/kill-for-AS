@@ -5,5 +5,5 @@ while true do
     }
 
     game:GetService("ReplicatedStorage").jdskhfsIIIllliiIIIdchgdIiIIIlIlIli:FireServer(unpack(args))
-    wait(1) -- Attendez une seconde entre chaque itération
+    wait(0) -- Attendez une seconde entre chaque itération
 end
